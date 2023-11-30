@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kotlin, Go
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @anvarski
+- 📫 How to reach me: @anvarski
  in telegram
 <!---
 anwarsky/anwarsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
